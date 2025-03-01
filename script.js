@@ -1,5 +1,5 @@
 // Token-ul tău API
-const apiKey = "95df6201635e43169e7cae27a99eb0a3"; // Înlocuiește cu propriul tău token
+const apiKey = "95df6201635e43169e7cae27a99eb0a3; 
 const url = "https://api.football-data.org/v2/competitions/PL/matches";
 
 // Funcția pentru a obține meciuri și a actualiza interfața
