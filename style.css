@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meciuri de Fotbal - Analiza AI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Meciuri de Fotbal - Analiza AI</h1>
+    <p>Obține detalii despre meciuri și analiza lor AI.</p>
+  </header>
+
+  <main>
+    <section id="matches">
+      <h2>Meciuri Curente</h2>
+      <div id="loading">Se încarcă datele...</div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025, Proiect AI Meciuri</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
